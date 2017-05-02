@@ -1,7 +1,7 @@
 # game cheaters
 A research on the game cheating users 
 
-The assignment: 
+#The assignment: 
 •	Analyze the log file provided (creepy.log) and write down any evidence of cheating.
 •	Also, if there is anything else that looks odd or buggy please do mention those things. 
 •	Prepare a presentation (Power Point or similar) detailing your findings. 
